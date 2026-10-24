@@ -48,7 +48,7 @@ I build full-stack web and mobile apps end to end, from REST APIs and databases 
 
 - HackWithHyderabad 2025: team participant (backend and API design)
 - Deloitte Data Analytics Job Simulation (Forage)
-- SolveX built for the **Build for Bharat** programme
+
 
 ---
 
