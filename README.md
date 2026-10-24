@@ -44,6 +44,10 @@ I build full-stack web and mobile apps end to end, from REST APIs and databases 
 - **[DSA in Java](https://github.com/sreeja-dende/DSA_java):** 60 problems organised by pattern (arrays, sliding window, intervals, greedy, DP, graphs, bit manipulation)
 - **[Day to Day](https://github.com/sreeja-dende/daytoday):** my daily practice log
 
+## ✍️ Writing
+
+- **[From Expo Go to the Open Web: What I Learned Shipping SolveX](articles/building-solvex.md)**: web bugs I hit, designing secure document verification, and deploying the stack for free
+
 ## 🏆 Highlights
 
 - HackWithHyderabad 2025: team participant (backend and API design)
